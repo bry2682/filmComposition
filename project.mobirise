@@ -282,7 +282,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
@@ -293,7 +294,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/leading-lines-andor.jpg"
       },
       "components": [
         {
